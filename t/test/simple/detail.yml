@@ -1,0 +1,4 @@
+---
+'title': '[% user %] page'
+'#Content': |+
+  Wow! [% user %] is [% sex %]!!!
